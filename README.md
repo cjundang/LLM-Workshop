@@ -43,23 +43,27 @@
 
 ## **บทที่ 1 การวิเคราะห์ข้อความเชิงสถิติ (Statistical Text Analysis)**
 เริ่มต้นด้วยการอธิบายวิธีการพื้นฐานที่สุดในการทำให้ข้อความอยู่ในรูปที่สามารถนำไปประมวลผลทางสถิติและเชิงปริมาณได้ เช่น การแทนข้อความด้วย Bag of Words, TF-IDF และ N-grams จากนั้นจึงแสดงการประยุกต์ใช้ในงานจริง ได้แก่ การจำแนกข้อความ (Text Classification), การวิเคราะห์หัวข้อ (Topic Modeling), การวิเคราะห์อารมณ์ (Sentiment Analysis) และการตรวจจับสแปม (Spam Detection) ผ่านอัลกอริทึม Naïve Bayes
-lecture note --> [download](01.md)
-slide --> [download](slide-01.pdf)
+
+- lecture note --> [download](01.md)
+- slide --> [download](slide-01.pdf)
 
 ## **บทที่ 2 การวิเคราะห์ข้อความเชิงบริบท (Contextual Text Analysis)**
 พัฒนาความเข้าใจจากระดับสถิติไปสู่ระดับบริบท (context) โดยอธิบายทฤษฎี Distributional Semantics และ Vector Space Model ซึ่งเป็นรากฐานของการแทนความหมายของคำและประโยคในเชิงคณิตศาสตร์ ตลอดจนการแนะนำเทคนิค Embedding แบบดั้งเดิม เช่น Word2Vec, GloVe, FastText และโมเดลสมัยใหม่อย่าง BERT หรือ GPT เพื่อนำไปสู่การประยุกต์ในงาน Semantic Search, Clustering และ Recommendation Systems
-lecture note --> [download](02.md)
-slide --> [download](slide-02.pdf)
+
+- lecture note --> [download](02.md)
+- slide --> [download](slide-02.pdf)
 
 ## **บทที่ 3 การวิเคราะห์ข้อความเชิงบริบทขั้นสูง (Advanced Contextual Text Analysis)**
 ขยายความจากบทก่อนหน้า โดยมุ่งเน้นการสร้าง Contextual Embeddings ผ่านสถาปัตยกรรม Deep Learning ได้แก่ LSTM และ Transformer พร้อมทั้งอภิปรายประเด็นเชิงทฤษฎีที่สำคัญ เช่น Manifold Hypothesis, Transfer Learning และ Explainability ซึ่งเป็นองค์ประกอบที่ช่วยให้โมเดลสามารถอธิบายได้ (interpretable) และถ่ายโอนความรู้จากโดเมนหนึ่งไปยังอีกโดเมนหนึ่งได้ บทนี้ยังนำเสนอการประยุกต์จริงในระดับสูง เช่น การสร้าง Chatbot และการทำ Clustering ของข้อความเชิงบริบท
-lecture note --> [download](03.md)
-slide --> [download](slide-03.pdf)
+
+- lecture note --> [download](03.md)
+- slide --> [download](slide-03.pdf)
 
 ##m **บทที่ 4 การสร้าง AI ตอบคำถามจากเอกสารด้วย RAG Framework (Retrieval-Augmented Generation)**
 เป็นการบูรณาการความรู้ทั้งหมดจากสามบทแรกเพื่อนำไปสู่การสร้างระบบอัจฉริยะที่สามารถดึงข้อมูล ตีความ และสร้างคำตอบใหม่ได้ บทนี้แนะนำกรอบแนวคิด RAG ซึ่งเชื่อมกระบวนการ Retrieval, Augmentation และ Generation เข้าด้วยกัน ตลอดจนการอธิบายขั้นตอนที่จำเป็น ได้แก่ Document Chunking, Context Creation, Embedding, Retrieval และ Answer Generation โดยมี Workshop เชิงปฏิบัติให้นักเรียนได้สร้าง AI ที่ตอบคำถามจากเอกสารจริง
-lecture note --> [download](04.md)
-slide --> [download](slide-04.pdf)
+
+- lecture note --> [download](04.md)
+- slide --> [download](slide-04.pdf)
 
 โดยสรุป การอบรมเชิงปฏิบัติการนี้ออกแบบให้ผู้เรียนค่อย ๆ พัฒนาความเข้าใจจากระดับพื้นฐานเชิงสถิติ ไปสู่การวิเคราะห์ข้อความที่ซับซ้อนด้วยโมเดลเชิงบริบท และต่อยอดไปสู่การประยุกต์ใช้ขั้นสูงด้วยเทคโนโลยีปัญญาประดิษฐ์รุ่นใหม่ จุดมุ่งหมายสำคัญคือทำให้ผู้อ่านสามารถเข้าใจทั้งกรอบแนวคิดเชิงทฤษฎีและการลงมือปฏิบัติในระดับที่เพียงพอสำหรับการประยุกต์ใช้จริง รวมถึงเป็นรากฐานในการศึกษาต่อในสาขา AI, Machine Learning และ Natural Language Processing
 
