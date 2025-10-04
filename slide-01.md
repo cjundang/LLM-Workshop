@@ -2,8 +2,11 @@
 marp: true
 theme: default
 paginate: true
-backgroundImage: url('background.jpg')
+_class: lead
+backgroundImage: url('images/background.jpg')
 backgroundSize: cover
+backgroundColor: #ffffff
+color: #003366
 ---
 
 # 🤖 01-Artificial Ingelligence 
