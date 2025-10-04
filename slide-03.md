@@ -1,14 +1,17 @@
 ---
 marp: true
+title: "03 - การวิเคราะห์ข้อความเชิงสถิติ "
 theme: default
 paginate: true
 _class: lead
 backgroundImage: url('images/background.jpg')
 backgroundSize: cover
-backgroundColor: #ffffff
-color: #003366
-math: mathjax
+backgroundColor: "#ffffff"
+color: "#003366"
+header: "Assist. Prof. Dr. CJ | Walailak University"
+footer: "03 - การวิเคราะห์ข้อความเชิงสถิติ "
 ---
+
 # 🧠 03 - การวิเคราะห์ข้อความเชิงสถิติ  
 ### (Statistical Text Analysis)
 

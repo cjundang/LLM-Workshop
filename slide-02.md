@@ -1,13 +1,17 @@
 ---
 marp: true
+title: "02-Prompt Engineering"
 theme: default
 paginate: true
 _class: lead
 backgroundImage: url('images/background.jpg')
 backgroundSize: cover
-backgroundColor: #ffffff
-color: #003366
+backgroundColor: "#ffffff"
+color: "#003366"
+header: "Assist. Prof. Dr. CJ | Walailak University"
+footer: "02-Prompt Engineering"
 ---
+
 
 # 📖 02-Prompt Engineering
 ## ผศ. ดร. ชนันท์กรณ์ จันแดง

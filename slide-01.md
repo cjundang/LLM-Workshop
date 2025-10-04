@@ -1,13 +1,17 @@
 ---
 marp: true
+title: "01-Artificial Ingelligence"
 theme: default
 paginate: true
 _class: lead
 backgroundImage: url('images/background.jpg')
 backgroundSize: cover
-backgroundColor: #ffffff
-color: #003366
+backgroundColor: "#ffffff"
+color: "#003366"
+header: "Assist. Prof. Dr. CJ | Walailak University"
+footer: "01-Artificial Ingelligence"
 ---
+
 
 # 🤖 01-Artificial Ingelligence 
 ## ผศ. ดร. ชนันท์กรณ์ จันแดง
