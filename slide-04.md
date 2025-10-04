@@ -1,10 +1,17 @@
 ---
 marp: true
+title: "04 - สร้าง AI ตอบคำถามจากเอกสาร ด้วย RAG Framework"
 theme: default
-class: lead
 paginate: true
-title: "สร้าง AI ตอบคำถามจากเอกสาร ด้วย RAG Framework"
+_class: lead
+backgroundImage: url('images/background.jpg')
+backgroundSize: cover
+backgroundColor: "#ffffff"
+color: "#003366"
+header: "Assist. Prof. Dr. Channakorn Jandaeng | Walailak University"
+footer: "04 - สร้าง AI ตอบคำถามจากเอกสาร ด้วย RAG Framework"
 ---
+
 
 # 🤖 Workshop:  
 **04-สร้าง AI ตอบคำถามจากเอกสาร (Document Q&A)**  
